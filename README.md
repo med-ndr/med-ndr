@@ -1,4 +1,4 @@
-# Hi I'am Mohamed 👋
+# Hi I'am Mohamed 
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/99/a4/e1/99a4e1dc038bb0cb39f9d3c033b03a27.gif">
@@ -8,7 +8,7 @@
 </br>
 
 
-# About ME 💬 :
+# About ME  :
 
 ### - I'am a 16 year old Moroccan youth interested in learning programming and everything related to it .
 
@@ -29,7 +29,7 @@
 
 
 
-# Languages & Tools 👨‍💻 🛠:
+# Languages & Tools  :
 </br>
 
 <p align="center">
