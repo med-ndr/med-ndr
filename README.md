@@ -16,7 +16,8 @@
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+- ✨ Data Engineering
+- ✨ Full Stack Development
 
 ### - Hobbies : 
 - ✨ Gaming Addict
