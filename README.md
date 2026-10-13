@@ -10,7 +10,7 @@
 
 # About ME  :
 
-### - I'am a 16 year old Moroccan youth interested in learning programming and everything related to it .
+### - I'am a 18 year old Moroccan youth interested in learning programming and everything related to it .
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://i.pinimg.com/originals/c7/42/0c/c7420cd5ae39436160cc257f002d621b.gif">
 
