@@ -15,14 +15,14 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://i.pinimg.com/originals/c7/42/0c/c7420cd5ae39436160cc257f002d621b.gif">
 
 ### - Learning :
-- ✨ Data Engineering
-- ✨ Networking
-- ✨ Full Stack Development
+-  Data Engineering
+-  Networking
+-  Full Stack Development
 
 ### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Playing Chess
+-  Gaming Addict
+-  Watching Anime
+-  Playing Chess
 
 </br>
 </br>
