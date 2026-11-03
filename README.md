@@ -35,7 +35,6 @@
 
 <p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://skillicons.dev/icons?i=js" height="50" width="50" alt="javascript logo"  />
 <img src="https://skillicons.dev/icons?i=react" height="50" width="50" alt="react logo"  />
 <img src="https://skillicons.dev/icons?i=nodejs" height="50" width="50" alt="nodejs logo"  />
